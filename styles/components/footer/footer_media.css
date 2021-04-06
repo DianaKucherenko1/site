@@ -1,0 +1,42 @@
+
+@media (max-width: 980px) {
+
+    footer {
+        max-width: 767px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    footer {
+        max-width: 500px;
+    }
+}
+
+@media (max-width: 500px) {
+    footer {
+        max-width: 320px;
+    }
+}
+
+
+
+@media (max-width: 980px) {
+    footer a {
+        font-size: 10px ;
+    }
+ }  
+
+
+ 
+@media (max-width: 767px) {
+    footer a{
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 500px) {
+    footer a{
+        font-size: 4px;
+    }
+}

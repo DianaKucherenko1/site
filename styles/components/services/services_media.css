@@ -1,0 +1,178 @@
+
+@media (max-width: 980px) {
+
+    .banner {
+        max-width: 767px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .banner {
+        max-width: 100%;
+    }
+}
+
+
+
+
+@media (max-width: 980px) {
+
+    .icon-first {
+        width: 163px;
+        height: 163px;
+    }
+    .icon-second{
+        width: 163px;
+        height: 163px;
+    }
+
+    .icon-third {
+        width: 163px;
+        height: 163px; 
+        
+    }
+
+    
+    .servises-content-wrapper .info-item h3 {
+        font-size: 17px ;
+    }
+
+    .servises-content-wrapper .info-item p {
+        margin-top: 15px;
+        font-size: 10px;
+    }
+
+   
+}
+
+@media (max-width: 767px) {
+
+    .icon-first {
+        width: 153px;
+        height: 153px;
+        margin-top: 15px;
+    }
+    .icon-second{
+        width: 153px;
+        height: 153px;
+        margin-top: 15px;
+    }
+
+    .icon-third {
+        width: 153px;
+        height: 153px; 
+        margin-top: 15px;
+        
+    }
+
+
+    
+    .servises{
+        margin-top: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .servises .info-item{
+        max-width: 500px;
+        margin: 0 auto;
+    } 
+
+
+    .servises-content-wrapper{
+        display: block;
+    }
+
+    
+    .servises-content-wrapper .info-item h3 {
+        font-size: 13px ;
+    }
+
+    .servises-content-wrapper .info-item p {
+        margin-top: 15px;
+        font-size: 8px;
+    }
+
+   
+    .info-item .icon-first img {
+        width: 60px;
+    }
+   
+    .info-item .icon-second img {
+        width: 60px;
+    }
+
+    .info-item .icon-third img {
+        width: 60px;
+    }
+}
+
+
+
+@media (max-width: 500px) {
+
+    .icon-first {
+        width: 100px;
+        height: 100px;
+        margin-top: 15px;
+    }
+    .icon-second{
+        width: 100px;
+        height: 100px;
+        margin-top: 15px;
+    }
+
+    .icon-third {
+        width: 100px;
+        height: 100px; 
+        margin-top: 15px;
+    }
+
+    .servises{
+        margin-top: 15px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .servises{
+        margin-top: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .servises .info-item{
+        max-width: 400px;
+        margin: 0 auto;
+    } 
+    
+    .servises-content-wrapper{
+        display: block;
+        
+    }
+
+
+    .servises-content-wrapper .info-item h3 {
+        font-size: 10px ;
+    }
+
+    .servises-content-wrapper .info-item p {
+        margin-top: 15px;
+        font-size: 5px;
+    }
+
+    .info-item .icon-first img {
+        width: 38px;
+    }
+   
+    .info-item .icon-second img {
+        width: 38px;
+    }
+
+    .info-item .icon-third img {
+        width: 38px;
+    }
+
+}

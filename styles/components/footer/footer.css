@@ -1,0 +1,20 @@
+
+
+
+.footer-content-wrapper{
+    justify-content: center;
+    display: flex;
+    padding: 25px 0 30px;
+}
+
+footer a {
+    text-decoration: none;
+    color: var(--main-font-color);
+    font-size: var(--font-sm);
+  
+}
+
+
+ hr {
+ color:var(--main-font-color); 
+  }

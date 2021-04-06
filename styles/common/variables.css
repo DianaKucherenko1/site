@@ -1,0 +1,20 @@
+:root {
+    --content-width: 980px;
+
+    --main-font-color: #6c6c6c;
+    --secondary-color: #5094f2;
+    --icon-color: #d94748;
+    --secondary-icon-color: #ebbb11;
+
+    --font-sm: 13px;
+    --font-md: 18px;
+    --font-md-sec: 20px;
+    --font-lg: 23px;
+    --font-xlg: 35px;
+    --font-md-th: 16px;
+    
+    --main-font-family: 'Open Sans', sans-serif;
+
+    --container-x-offset: 15px;
+    --container-y-offset: 0;
+}

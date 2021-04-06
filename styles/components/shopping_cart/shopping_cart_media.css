@@ -1,0 +1,141 @@
+
+@media (max-width: 980px) {
+
+    .shoping_card {
+        max-width: 767px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .shoping_card {
+        max-width: 100%;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 980px) {
+
+    .shoping_card h2 {
+       font-size: 30px ;
+    }
+    .shoping-content-wrapper .info-left img{
+        height: 224px ;
+       width: 323px ;
+       
+    }
+
+    .shoping-content-wrapper .info-right h2 {
+    font-size: 20 px; ;
+    }
+
+    
+    .shoping-content-wrapper .info-right div p {
+        font-size:  10px;
+    }
+
+   
+}
+
+
+@media (max-width: 767px) {
+
+    
+
+
+     
+    .shoping_card{
+        margin-top: 48px;
+        justify-content: center;
+        align-items: center;
+        
+        
+    }
+    .shoping_card .info-right{
+        max-width: 500px;
+        margin: 0 auto;
+    }
+    
+
+    .shoping-content-wrapper{
+        display: block;
+      
+    }
+
+    .shoping_card h2 {
+       font-size: 25px ;
+       text-align: center;
+       margin-bottom: 15px;
+     
+       
+    }
+    .shoping-content-wrapper .info-left img{
+        height: 174px ;
+       width: 223px ;
+       padding-top: 25px;
+       display: none;
+    }
+
+    .shoping-content-wrapper .info-right h2 {
+    font-size: 15px;
+    }
+
+    
+    .shoping-content-wrapper .info-right div p {
+        font-size:  8px;
+        padding-top: 11px;
+        
+    }
+
+   
+}
+
+
+
+@media (max-width: 500px) {
+
+ 
+    .shoping_card{
+        margin-top: 38px;
+        justify-content: center;
+        align-items: center;
+        
+        
+    }
+    .shoping_card .info-right{
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    
+
+    .shoping-content-wrapper{
+        display: block;
+    }
+
+    .shoping_card h2 {
+       font-size: 17px ;
+    }
+    .shoping-content-wrapper .info-left img{
+        height: 124px ;
+       width: 143px ;
+       padding-top: 10px;
+       display: none;
+       
+    }
+
+    .shoping-content-wrapper .info-right h2 {
+    font-size: 12px;
+    }
+
+    
+    .shoping-content-wrapper .info-right div p {
+        font-size:  4px;
+        padding-top: 10px;
+    }
+
+   
+}
